@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+}
+html {
+  // reset the main unit to rem 1rem => 10px //
+  font-size: 62.5%;
+}
+body {
+  padding: 3rem;
+  box-sizing: border-box;
+}

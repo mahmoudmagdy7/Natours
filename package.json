@@ -25,7 +25,7 @@
     "picomatch": "^2.3.1"
   },
   "scripts": {
-    "compile:sass": "sass sass/style.scss css/style.css -w"
+    "compile:sass": "sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",

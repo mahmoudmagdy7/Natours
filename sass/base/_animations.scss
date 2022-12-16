@@ -1,0 +1,38 @@
+/* headding animation */
+@keyframes MoveToRight {
+  0% {
+    opacity: 0;
+    transform: translate(-7rem);
+  }
+  80% {
+    transform: translate(1rem);
+    opacity: 100%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+@keyframes MoveToLeft {
+  0% {
+    opacity: 0;
+    transform: translate(7rem);
+  }
+  80% {
+    transform: translate(-1rem);
+    opacity: 100%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+@keyframes MoveUp {
+  0% {
+    opacity: 0;
+    transform: translateY(5rem);
+  }
+  100% {
+    opacity: 100%;
+  }
+}

@@ -1,0 +1,13 @@
+/*initial abstracts files*/
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+/*initial base files*/
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+/*initial components files*/
+@import "components/buttons";
+@import "layout/header";
